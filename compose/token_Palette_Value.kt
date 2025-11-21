@@ -36,6 +36,7 @@ object  {
   val colorGrey600 = Color(0xff3d3d3c)
   val colorGrey700 = Color(0xff2c2c2c)
   val colorGrey800 = Color(0xff1e1e1d)
+  val colorGroupTestDoNotUse = Color(0xffff0000)
   val colorOrange100 = Color(0xfffac1af)
   val colorOrange200 = Color(0xfff8a68b)
   val colorOrange300 = Color(0xfff68b67)
@@ -75,5 +76,4 @@ object  {
   val colorYellow700 = Color(0xffad8800)
   val colorYellow800 = Color(0xff856800)
   val colorYellow900 = Color(0xff5c4800)
-  val contentTestDoNotUse = DO NOT USE
 }

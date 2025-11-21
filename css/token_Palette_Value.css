@@ -28,6 +28,7 @@
   --color-grey-600: #3d3d3c;
   --color-grey-700: #2c2c2c;
   --color-grey-800: #1e1e1d;
+  --color-group-test-do-not-use: #ff0000;
   --color-orange-100: #fac1af;
   --color-orange-200: #f8a68b;
   --color-orange-300: #f68b67;
@@ -67,5 +68,4 @@
   --color-yellow-700: #ad8800;
   --color-yellow-800: #856800;
   --color-yellow-900: #5c4800;
-  --content-test-do-not-use: DO NOT USE;
 }

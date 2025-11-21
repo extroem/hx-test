@@ -65,6 +65,7 @@ object  {
   val colorRed700 = Color(0xff961b22)
   val colorRed800 = Color(0xff72151a)
   val colorRed900 = Color(0xff4f0e12)
+  val colorTestTestColor = Color(0xffffffff)
   val colorTintsBlack4 = Color(0x0a000000)
   val colorWhite = Color(0xffffffff)
   val colorYellow100 = Color(0xffffeba3)

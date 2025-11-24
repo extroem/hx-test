@@ -241,6 +241,12 @@
       "$value": "#4f0e12"
     }
   },
+  "test": {
+    "test-color": {
+      "$type": "color",
+      "$value": "#ffffff"
+    }
+  },
   "tints": {
     "black": {
       "4 %": {

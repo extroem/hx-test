@@ -63,6 +63,7 @@ NSString * const ColorRed600 = [UIColor colorWithRed:0.725f green:0.133f blue:0.
 NSString * const ColorRed700 = [UIColor colorWithRed:0.588f green:0.106f blue:0.133f alpha:1.000f];
 NSString * const ColorRed800 = [UIColor colorWithRed:0.447f green:0.082f blue:0.102f alpha:1.000f];
 NSString * const ColorRed900 = [UIColor colorWithRed:0.310f green:0.055f blue:0.071f alpha:1.000f];
+NSString * const ColorTestTestColor = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const ColorTintsBlack4 = [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:0.040f];
 NSString * const ColorWhite = [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f];
 NSString * const ColorYellow100 = [UIColor colorWithRed:1.000f green:0.922f blue:0.639f alpha:1.000f];
@@ -480,6 +481,13 @@ NSString * const ColorYellow900 = [UIColor colorWithRed:0.361f green:0.282f blue
     @"category": @"color",
     @"type": @"red",
     @"item": @"900"
+  },
+@{
+  @"value": [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
+  @"name": @"ColorTestTestColor",
+    @"category": @"color",
+    @"type": @"test",
+    @"item": @"test-color"
   },
 @{
   @"value": [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:0.040f],

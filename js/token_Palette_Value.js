@@ -981,6 +981,25 @@ module.exports = {
         ]
       }
     },
+    "test": {
+      "test-color": {
+        "value": "#ffffff",
+        "original": {
+          "value": "#ffffff"
+        },
+        "name": "ColorTestTestColor",
+        "attributes": {
+          "category": "color",
+          "type": "test",
+          "item": "test-color"
+        },
+        "path": [
+          "color",
+          "test",
+          "test-color"
+        ]
+      }
+    },
     "tints": {
       "black": {
         "4 %": {

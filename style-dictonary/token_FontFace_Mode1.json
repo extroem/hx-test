@@ -1,0 +1,10 @@
+{
+  "primary": {
+    "type": "string",
+    "value": "Husqvarna Gothic"
+  },
+  "secondary": {
+    "type": "string",
+    "value": "Roboto"
+  }
+}

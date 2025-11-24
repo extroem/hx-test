@@ -1,0 +1,58 @@
+{
+  "0": {
+    "type": "number",
+    "value": 0
+  },
+  "12": {
+    "type": "number",
+    "value": 12
+  },
+  "120": {
+    "type": "number",
+    "value": 120
+  },
+  "16": {
+    "type": "number",
+    "value": 16
+  },
+  "160": {
+    "type": "number",
+    "value": 160
+  },
+  "200": {
+    "type": "number",
+    "value": 200
+  },
+  "24": {
+    "type": "number",
+    "value": 24
+  },
+  "32": {
+    "type": "number",
+    "value": 32
+  },
+  "4": {
+    "type": "number",
+    "value": 4
+  },
+  "40": {
+    "type": "number",
+    "value": 40
+  },
+  "56": {
+    "type": "number",
+    "value": 56
+  },
+  "64": {
+    "type": "number",
+    "value": 64
+  },
+  "8": {
+    "type": "number",
+    "value": 8
+  },
+  "80": {
+    "type": "number",
+    "value": 80
+  }
+}

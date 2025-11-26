@@ -59,7 +59,7 @@
   <color name="color_red_700">#ff961b22</color>
   <color name="color_red_800">#ff72151a</color>
   <color name="color_red_900">#ff4f0e12</color>
-  <color name="color_test_test_color">#ffffffff</color>
+  <color name="color_test_test_color">#ffffc0cb</color>
   <color name="color_tints_black_4">#0a000000</color>
   <color name="color_white">#ffffffff</color>
   <color name="color_yellow_100">#ffffeba3</color>

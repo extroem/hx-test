@@ -983,9 +983,9 @@ module.exports = {
     },
     "test": {
       "test-color": {
-        "value": "#ffffff",
+        "value": "#ffc0cb",
         "original": {
-          "value": "#ffffff"
+          "value": "#ffc0cb"
         },
         "name": "ColorTestTestColor",
         "attributes": {

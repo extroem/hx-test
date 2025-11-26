@@ -66,7 +66,7 @@ class  {
     static const colorRed700 = Color(0xFF961B22);
     static const colorRed800 = Color(0xFF72151A);
     static const colorRed900 = Color(0xFF4F0E12);
-    static const colorTestTestColor = Color(0xFFFFFFFF);
+    static const colorTestTestColor = Color(0xFFFFC0CB);
     static const colorTintsBlack4 = Color(0x0A000000);
     static const colorWhite = Color(0xFFFFFFFF);
     static const colorYellow100 = Color(0xFFFFEBA3);

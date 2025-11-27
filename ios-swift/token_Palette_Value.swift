@@ -63,7 +63,7 @@ public class Foundations {
     public static let colorRed700 = UIColor(red: 0.588, green: 0.106, blue: 0.133, alpha: 1)
     public static let colorRed800 = UIColor(red: 0.447, green: 0.082, blue: 0.102, alpha: 1)
     public static let colorRed900 = UIColor(red: 0.310, green: 0.055, blue: 0.071, alpha: 1)
-    public static let colorTestTestColor = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorTestTestColor = UIColor(red: 1.000, green: 0.753, blue: 0.796, alpha: 1)
     public static let colorTintsBlack4 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 0.04)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorYellow100 = UIColor(red: 1.000, green: 0.922, blue: 0.639, alpha: 1)
